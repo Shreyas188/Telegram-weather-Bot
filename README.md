@@ -39,10 +39,4 @@ The API returns live weather data.
 
 The bot formats the response and sends it back to the user.
 
-* Future Enhancements (Optional)
 
-3-day weather forecast support.
-
-Inline buttons for quick city selection.
-
-Automatic location detection.
