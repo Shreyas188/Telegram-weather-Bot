@@ -1,8 +1,8 @@
 # Telegram-weather-Bot
 
-his is a Telegram-based Weather Bot built using Python and the Telegram Bot API. The bot provides real-time weather information for any city requested by the user. It fetches data from WeatherAPI and returns details such as temperature, humidity, weather conditions, and wind speed in a clean, user-friendly format.
+This is a Telegram-based Weather Bot built using Python and the Telegram Bot API. The bot provides real-time weather information for any city requested by the user. It fetches data from WeatherAPI and returns details such as temperature, humidity, weather conditions, and wind speed in a clean, user-friendly format.
 
-🔧 Tech Stack
+* Tech Stack
 
 Python
 
@@ -14,7 +14,7 @@ Requests
 
 Telegram Bot API
 
- Features
+* Features
 
 Get real-time weather updates for any city.
 
@@ -39,7 +39,7 @@ The API returns live weather data.
 
 The bot formats the response and sends it back to the user.
 
- Future Enhancements (Optional)
+* Future Enhancements (Optional)
 
 3-day weather forecast support.
 
