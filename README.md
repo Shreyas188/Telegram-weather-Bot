@@ -26,7 +26,7 @@ Error handling for invalid city names.
 
 Supports both Android & Desktop Telegram apps.
 
- How It Works
+* How It Works
 
 The user sends a command like:
 
